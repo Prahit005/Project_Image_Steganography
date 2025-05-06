@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Key and encrypted files
+*.key
+*.enc
+
+# Data files
+auth_data.json
+
+# Tkinter/GUI artifacts
+*.log
+
+# Virtual environments
+venv/
+env/
+
+# System-specific
+.DS_Store
