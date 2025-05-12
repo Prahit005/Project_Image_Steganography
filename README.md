@@ -44,8 +44,6 @@ A secure authentication system that uses image steganography and Particle Swarm 
 -> Encrypted pixel positions are saved in a .enc file.
 -> At login, system extracts password from the image and verifies it securely.
 
-## Contributors
-
 ## 🙌 Credits
 
 This project was developed as part of a group submission at KIIT University.
